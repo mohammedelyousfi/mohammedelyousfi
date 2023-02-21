@@ -4,8 +4,7 @@
 
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%92%BB+Software+Engineering+Student+%F0%9F%92%BB;%F0%9F%93%8A+Data+Science+Student+%F0%9F%93%8A;%E2%9A%99%EF%B8%8F+Data+Engineering+Student+%E2%9A%99%EF%B8%8F" alt="Typing SVG" /></a>
-</p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=zaml" alt="Typing SVG" /></a></p>
 
 
 ## 😎 `About me` :
